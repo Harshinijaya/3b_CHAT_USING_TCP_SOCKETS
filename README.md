@@ -54,8 +54,6 @@ while True:
 
 s.close()
 ```
-
-
 ## OUPUT##
 <img width="1907" height="1078" alt="Screenshot 2026-05-20 111124" src="https://github.com/user-attachments/assets/9cfc9c2c-dbc3-4f8f-849d-600d3155f8d1" />
 <img width="1918" height="1078" alt="Screenshot 2026-05-20 111143" src="https://github.com/user-attachments/assets/c5e408c5-0cd3-4bcf-b8ae-6abb5f7e43b3" />

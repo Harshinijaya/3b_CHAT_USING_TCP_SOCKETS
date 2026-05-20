@@ -1,4 +1,4 @@
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/93617dec-435f-41c7-ba59-8a301b462e80" /># 3b.CREATION FOR CHAT USING TCP SOCKETS
+# 3b.CREATION FOR CHAT USING TCP SOCKETS
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
